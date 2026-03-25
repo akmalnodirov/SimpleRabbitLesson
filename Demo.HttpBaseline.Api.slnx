@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/RabbitVersion/">
+    <Project Path="Rabbit.Api/Rabbit.Api.csproj" />
+    <Project Path="Rabbit.Contracts/Rabbit.Contracts.csproj" />
+    <Project Path="Rabbit.Worker/Rabbit.Worker.csproj" />
+  </Folder>
+  <Folder Name="/SimpleApi/">
+    <Project Path="Demo.HttpBaseline.Api/Demo.HttpBaseline.Api.csproj" />
+  </Folder>
+</Solution>
