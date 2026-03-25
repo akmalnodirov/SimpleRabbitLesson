@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Files/">
+    <File Path="../../../OneDrive/Рабочий стол/apache-jmeter-5.6.3/bin/RabbitTEst.jmx" />
+    <File Path="instructions.txt" />
+  </Folder>
   <Folder Name="/RabbitVersion/">
     <Project Path="Rabbit.Api/Rabbit.Api.csproj" />
     <Project Path="Rabbit.Contracts/Rabbit.Contracts.csproj" />

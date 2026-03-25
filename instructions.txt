@@ -1,0 +1,10 @@
+1. docker run -d --hostname rabbitmq --name rabbitmq -p 5672:5672 -p 15672:15672 -e RABBITMQ_DEFAULT_USER=guest -e RABBITMQ_DEFAULT_PASS=guest rabbitmq:3-management
+
+2. docker ps
+
+3. goto http://localhost:15672
+
+4.  Login with guest / guest
+
+docker stop rabbitmq
+docker start rabbitmq
