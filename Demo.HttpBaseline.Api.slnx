@@ -1,14 +1,27 @@
 <Solution>
-  <Folder Name="/Files/">
-    <File Path="../../../OneDrive/Рабочий стол/apache-jmeter-5.6.3/bin/RabbitTEst.jmx" />
-    <File Path="instructions.txt" />
+  <Folder Name="/AdvancedProgramming/" />
+  <Folder Name="/AdvancedProgramming/MessageBrokers/">
+    <File Path="docker-compose.yml" />
   </Folder>
-  <Folder Name="/RabbitVersion/">
+  <Folder Name="/AdvancedProgramming/MessageBrokers/RabbitMq/">
+    <File Path="rabbitmt-topology.md" />
+  </Folder>
+  <Folder Name="/AdvancedProgramming/MessageBrokers/RabbitMq/DirectExchange/">
+    <File Path="../../../OneDrive/Рабочий стол/apache-jmeter-5.6.3/bin/RabbitTEst.jmx" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Folder Name="/AdvancedProgramming/MessageBrokers/RabbitMq/DirectExchange/RabbitVersion/">
     <Project Path="Rabbit.Api/Rabbit.Api.csproj" />
     <Project Path="Rabbit.Contracts/Rabbit.Contracts.csproj" />
     <Project Path="Rabbit.Worker/Rabbit.Worker.csproj" />
   </Folder>
-  <Folder Name="/SimpleApi/">
+  <Folder Name="/AdvancedProgramming/MessageBrokers/RabbitMq/DirectExchange/SimpleApi/">
     <Project Path="Demo.HttpBaseline.Api/Demo.HttpBaseline.Api.csproj" />
+  </Folder>
+  <Folder Name="/Files/">
+    <File Path="instructions.txt" />
+  </Folder>
+  <Folder Name="/ProgrammingLessons/">
+    <Project Path="StateMachine/StateMachine.csproj" Id="477aec5d-a298-4275-a2db-e9b003fdc04a" />
   </Folder>
 </Solution>

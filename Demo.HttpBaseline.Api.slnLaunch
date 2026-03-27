@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "RabbitApiWorker",
+    "Projects": [
+      {
+        "Path": "Rabbit.Api\\Rabbit.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Rabbit.Worker\\Rabbit.Worker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
